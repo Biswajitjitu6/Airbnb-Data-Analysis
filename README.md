@@ -10,21 +10,22 @@
 - An article from Fast Company states that 27% of travelers don’t use Airbnb because renting a home is too expensive
 
 ## Steps Followed
-
-- Data summary
-- Descriptive stats
-- Missing Value analysis
-- Which Neighborhood group has the maximum count
-- Maximum and Minimum Booking for the rooms
-- Price-wise room selection analysis
-- Best place according to price and availability 
-- Month that has received the highest review
-- Which neighborhood group has the most average reviews
-- Stats for top 10 neighborhoods According to the host count
-- Which is most expensive and why 
-- which neighborhood has the least price with their room type
-- Which hosts are busiest and why
-- percentage of room types offered by the top 10 busiest host
-- Location spot and room type per location
-- Conclusion
+### Data Loading
+### EDA
+  - Data summary
+  - Descriptive stats
+  - Missing Value analysis
+  - Which Neighborhood group has the maximum count
+  - Maximum and Minimum Booking for the rooms
+  - Price-wise room selection analysis
+  - Best place according to price and availability 
+  - Month that has received the highest review
+  - Which neighborhood group has the most average reviews
+  - Stats for top 10 neighborhoods According to the host count
+  - Which is most expensive and why 
+  - which neighborhood has the least price with their room type
+  - Which hosts are busiest and why
+  - percentage of room types offered by the top 10 busiest host
+  - Location spot and room type per location
+ ### Conclusion
 
