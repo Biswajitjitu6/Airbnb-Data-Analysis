@@ -28,4 +28,39 @@
   - percentage of room types offered by the top 10 busiest host
   - Location spot and room type per location
  ### Conclusion
+ 
+ 
+ 
+ Project Summary -
+Data Preprocessing
+Initialize colab Notebook
+Importing libraries
+Importing datasets
+Finding Missing Data
+Missing Value Treatment
+Exploratory Data Analysis with charts
+Conclusion
+Exploratory Data Analysis
+Neighbourhood group
+Neighbourhood Area
+Maximum Booking Room type
+Distribution of roomtype in different neighbourhood group
+Room Type VS Price Analysis
+Best Place to go
+Room Type distribution based on Reviews and minimum neights
+Heighst Review Month
+Heighest avg review Neighbourhood
+Popular Night stay location
+Top 10 Neighbourhood based on host id
+Least Price Room Type
+Busiest Host
+Percentage room type offered by busiest host
+Traffic difference among difference areas
+Most expenssive area
+Top Host whos listed their property maximum time
+% Room type listed by top 10 hosts
+Location spot
+Room type per location of Neighbourhood groups
+Conclusion
+ 
 
